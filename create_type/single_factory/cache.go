@@ -2,7 +2,7 @@ package single_factory
 
 import "errors"
 
-// 定义一个 Cache 接口 作为父类
+// 定义一个 Cache 接口
 type Cache interface {
 	Set(key, value string)
 	Get(key string) string

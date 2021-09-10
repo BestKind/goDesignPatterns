@@ -2,12 +2,12 @@
 通过 go 语言实现一些设计模式
 
 ### 创建型设计模式
- * [简单工厂模式 (single factory)](/create_type/single_factory)
- * 工厂模式 (factory)
- * 抽象工厂模式 (abstract factory)
- * 构建器模式 (builder)
- * 原型模式 (prototype)
- * 💍单例模式 (singleton)
+ * [单例模式 (singleton)](/create_type/singleton/README.md)
+ * [简单工厂模式 (single factory)](/create_type/single_factory/README.md)
+ * [工厂模式 (factory)](/create_type/factory/README.md)
+ * [抽象工厂模式 (abstract factory)](/create_type/abstract_factory/README.md)
+ * [建造者模式 (builder)](/create_type/builder/README.md)
+ * [原型模式 (prototype)](/create_type/prototype/README.md)
 
 ### 结构型设计模式
  * 适配器模式
