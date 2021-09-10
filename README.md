@@ -2,7 +2,7 @@
 通过 go 语言实现一些设计模式
 
 ### 创建型设计模式
- * 简单工厂模式 (single factory)
+ * (简单工厂模式 (single factory))[/create_type/single_factory]
  * 工厂模式 (factory)
  * 抽象工厂模式 (abstract factory)
  * 构建器模式 (builder)
