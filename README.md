@@ -10,7 +10,7 @@
  * [原型模式 (prototype)](/create_type/prototype/README.md)
 
 ### 结构型设计模式
- * 适配器模式
+ * [适配器模式](/structured/adapter/README.md)
  * 桥梁模式
  * 组合模式
  * 装饰模式
