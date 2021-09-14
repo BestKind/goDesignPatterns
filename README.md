@@ -11,10 +11,10 @@
 
 ### 结构型设计模式
  * [适配器模式](/structured/adapter/README.md)
- * 桥梁模式
- * 组合模式
- * 装饰模式
- * 门面模式
+ * [桥接模式](/structured/bridge/README.md)
+ * [组合模式](/structured/composite/README.md)
+ * [装饰模式](/structured/decorate/README.md)
+ * [门面模式](/structured/facade/README.md)
  * 享元模式
  * 代理模式
 
@@ -24,8 +24,8 @@
  * 迭代器模式
  * 中介者模式
  * 备忘录模式
- * 观察者模式
- * 访问者模式
- * 策略模式
+ * [观察者模式](/behavior_type/observer/README.md)
+ * [访问者模式](/behavior_type/visitor/README.md)
+ * [策略模式](/behavior_type/strategy/README.md)
  * 状态模式
  * 模板方法模式
