@@ -28,4 +28,4 @@
  * [访问者模式](/behavior_type/visitor/README.md)
  * [策略模式](/behavior_type/strategy/README.md)
  * [状态模式](/behavior_type/state/README.md)
- * [模板方法模式](/behavior_type/strategy/README.md)
+ * [模板方法模式](/behavior_type/template/README.md)
