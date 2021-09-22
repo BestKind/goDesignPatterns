@@ -15,8 +15,8 @@
  * [组合模式](/structured/composite/README.md)
  * [装饰模式](/structured/decorate/README.md)
  * [门面模式](/structured/facade/README.md)
- * 享元模式
- * 代理模式
+ * [享元模式](/structured/flyweight/README.md)
+ * [代理模式](/structured/proxy/README.md)
 
 ### 行为型设计模式
  * 责任链模式
