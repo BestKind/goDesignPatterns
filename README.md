@@ -19,13 +19,13 @@
  * [代理模式](/structured/proxy/README.md)
 
 ### 行为型设计模式
- * 责任链模式
- * 命令行模式
- * 迭代器模式
- * 中介者模式
- * 备忘录模式
+ * [责任链模式](/behavior_type/chain/README.md)
+ * [命令行模式](/behavior_type/command/README.md)
+ * [迭代器模式](/behavior_type/iterator/README.md)
+ * [中介者模式](/behavior_type/intermediary/README.md)
+ * [备忘录模式](/behavior_type/snapshot/README.md)
  * [观察者模式](/behavior_type/observer/README.md)
  * [访问者模式](/behavior_type/visitor/README.md)
  * [策略模式](/behavior_type/strategy/README.md)
- * 状态模式
- * 模板方法模式
+ * [状态模式](/behavior_type/state/README.md)
+ * [模板方法模式](/behavior_type/strategy/README.md)
